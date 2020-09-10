@@ -34,4 +34,3 @@ We also use the image as link. To add a link to an image, enclose the Markdown f
 <br>
 
 [<img align="left" src = "image/3.jpg" width="70" height="35" />](Table.md)
-[<img align="right" src = "image/2.jpg" width="70" height="35" />]() 
